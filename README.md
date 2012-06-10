@@ -1,4 +1,4 @@
-Whois-mono
+Whois mono
 ==========
 
 A simple monospace font
