@@ -7,6 +7,10 @@ A simple monospace font
 
 [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
+## Specimen
+
+<img src="https://github.com/raphaelbastide/Whois-mono/raw/master/documentation/images/specimen">
+
 ## Dirty Preview
 
 <img src="https://github.com/raphaelbastide/Whois-mono/raw/master/documentation/images/first-print.jpg">
