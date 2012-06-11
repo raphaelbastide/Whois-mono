@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339350769
-ModificationTime: 1339428975
+ModificationTime: 1339432390
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -42,7 +42,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 10
+WinInfo: 64 16 10
 Grid
 -800 520 m 0
  1600 520 l 0
@@ -1570,7 +1570,7 @@ EndChar
 
 StartChar: grave
 Encoding: 96 96 58
-Width: 335
+Width: 390
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -2898,7 +2898,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 224
-Width: 335
+Width: 390
 VWidth: 0
 Flags: HW
 LayerCount: 2
