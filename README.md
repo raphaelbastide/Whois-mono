@@ -9,7 +9,7 @@ A simple monospace font
 
 ## Specimen
 
-<img src="https://github.com/raphaelbastide/Whois-mono/raw/master/documentation/images/specimen">
+<img src="https://github.com/raphaelbastide/Whois-mono/raw/master/documentation/images/specimen.png">
 
 ## Dirty Preview
 
