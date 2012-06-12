@@ -4,18 +4,18 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="31.7148" y="521.234" type="line" smooth="no"/>
-      <point x="358.762" y="521.234" type="line" smooth="no"/>
-      <point x="358.762" y="470.703" type="line" smooth="no"/>
-      <point x="82.3936" y="470.703" type="line" smooth="no"/>
-      <point x="82.3936" y="290.678" type="line" smooth="no"/>
-      <point x="308.972" y="290.678" type="line" smooth="no"/>
-      <point x="308.972" y="240" type="line" smooth="no"/>
-      <point x="82.3936" y="240" type="line" smooth="no"/>
-      <point x="81.917" y="50.6768" type="line" smooth="no"/>
-      <point x="358.285" y="50.6768" type="line" smooth="no"/>
-      <point x="358.285" y="0" type="line" smooth="no"/>
-      <point x="31.2383" y="0" type="line" smooth="no"/>
+      <point x="32" y="521" type="line" smooth="no"/>
+      <point x="359" y="521" type="line" smooth="no"/>
+      <point x="359" y="471" type="line" smooth="no"/>
+      <point x="82" y="471" type="line" smooth="no"/>
+      <point x="82" y="291" type="line" smooth="no"/>
+      <point x="309" y="291" type="line" smooth="no"/>
+      <point x="309" y="240" type="line" smooth="no"/>
+      <point x="82" y="240" type="line" smooth="no"/>
+      <point x="82" y="51" type="line" smooth="no"/>
+      <point x="358" y="51" type="line" smooth="no"/>
+      <point x="358" y="0" type="line" smooth="no"/>
+      <point x="31" y="0" type="line" smooth="no"/>
     </contour>
   </outline>
 </glyph>

@@ -4,24 +4,24 @@
   <unicode hex="0078"/>
   <outline>
     <contour>
-      <point x="34" y="390.4" type="line" smooth="no"/>
-      <point x="96" y="390.4" type="line" smooth="no"/>
-      <point x="194" y="242.4" type="line" smooth="no"/>
-      <point x="194.25" y="240.963" type="line" smooth="no"/>
-      <point x="194.781" y="240.963" type="line" smooth="no"/>
-      <point x="195" y="242.4" type="line" smooth="no"/>
-      <point x="295" y="390.4" type="line" smooth="no"/>
-      <point x="356" y="390.4" type="line" smooth="no"/>
-      <point x="225.5" y="198" type="line" smooth="no"/>
-      <point x="359.5" y="0" type="line" smooth="no"/>
-      <point x="298.5" y="0" type="line" smooth="no"/>
-      <point x="196.5" y="152" type="line" smooth="no"/>
-      <point x="195.812" y="154.125" type="line" smooth="no"/>
-      <point x="195.062" y="154.125" type="line" smooth="no"/>
-      <point x="194.5" y="152" type="line" smooth="no"/>
-      <point x="92.5" y="0" type="line" smooth="no"/>
-      <point x="30.5" y="0" type="line" smooth="no"/>
-      <point x="164.5" y="198" type="line" smooth="no"/>
+      <point x="34" y="390" type="line" smooth="no"/>
+      <point x="96" y="390" type="line" smooth="no"/>
+      <point x="194" y="242" type="line" smooth="no"/>
+      <point x="194" y="241" type="line" smooth="no"/>
+      <point x="195" y="241" type="line" smooth="no"/>
+      <point x="195" y="242" type="line" smooth="no"/>
+      <point x="295" y="390" type="line" smooth="no"/>
+      <point x="356" y="390" type="line" smooth="no"/>
+      <point x="226" y="198" type="line" smooth="no"/>
+      <point x="360" y="0" type="line" smooth="no"/>
+      <point x="298" y="0" type="line" smooth="no"/>
+      <point x="196" y="152" type="line" smooth="no"/>
+      <point x="196" y="154" type="line" smooth="no"/>
+      <point x="195" y="154" type="line" smooth="no"/>
+      <point x="194" y="152" type="line" smooth="no"/>
+      <point x="92" y="0" type="line" smooth="no"/>
+      <point x="30" y="0" type="line" smooth="no"/>
+      <point x="164" y="198" type="line" smooth="no"/>
     </contour>
   </outline>
 </glyph>

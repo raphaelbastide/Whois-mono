@@ -2,4 +2,26 @@
 <glyph name="semicolon" format="1">
   <advance width="390"/>
   <unicode hex="003b"/>
+  <outline>
+    <contour>
+      <point x="57" y="95" type="line" smooth="no"/>
+      <point x="135" y="83" type="line" smooth="no"/>
+      <point x="74" y="-58" type="line" smooth="no"/>
+      <point x="26" y="-58" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="141" y="341" type="curve" smooth="yes"/>
+      <point x="141" y="314"/>
+      <point x="120" y="292"/>
+      <point x="93" y="292" type="curve" smooth="yes"/>
+      <point x="66" y="292"/>
+      <point x="45" y="314"/>
+      <point x="45" y="341" type="curve" smooth="yes"/>
+      <point x="45" y="368"/>
+      <point x="66" y="390"/>
+      <point x="93" y="390" type="curve" smooth="yes"/>
+      <point x="120" y="390"/>
+      <point x="141" y="368"/>
+    </contour>
+  </outline>
 </glyph>

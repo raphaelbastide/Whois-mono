@@ -2,4 +2,34 @@
 <glyph name="colon" format="1">
   <advance width="390"/>
   <unicode hex="003a"/>
+  <outline>
+    <contour>
+      <point x="161" y="341" type="curve" smooth="yes"/>
+      <point x="161" y="314"/>
+      <point x="140" y="292"/>
+      <point x="113" y="292" type="curve" smooth="yes"/>
+      <point x="86" y="292"/>
+      <point x="65" y="314"/>
+      <point x="65" y="341" type="curve" smooth="yes"/>
+      <point x="65" y="368"/>
+      <point x="86" y="390"/>
+      <point x="113" y="390" type="curve" smooth="yes"/>
+      <point x="140" y="390"/>
+      <point x="161" y="368"/>
+    </contour>
+    <contour>
+      <point x="161" y="49" type="curve" smooth="yes"/>
+      <point x="161" y="22"/>
+      <point x="140" y="0"/>
+      <point x="113" y="0" type="curve" smooth="yes"/>
+      <point x="86" y="0"/>
+      <point x="65" y="22"/>
+      <point x="65" y="49" type="curve" smooth="yes"/>
+      <point x="65" y="76"/>
+      <point x="86" y="98"/>
+      <point x="113" y="98" type="curve" smooth="yes"/>
+      <point x="140" y="98"/>
+      <point x="161" y="76"/>
+    </contour>
+  </outline>
 </glyph>
