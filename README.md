@@ -11,4 +11,4 @@ A simple monospace font
 
 <img src="https://github.com/raphaelbastide/Whois-mono/raw/master/documentation/images/specimen.png">
 
-<img src="https://github.com/raphaelbastide/Whois-mono/raw/master/documentation/images/specimen1.png">
+<img src="https://raw.github.com/raphaelbastide/Whois-mono/master/documentation/images/sand.png">
