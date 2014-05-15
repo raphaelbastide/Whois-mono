@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1339350769
-ModificationTime: 1389981729
+ModificationTime: 1400152806
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -34,6 +34,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
@@ -42,7 +43,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 10
+WinInfo: 7672 56 19
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1713,8 +1714,9 @@ StartChar: bracketleft
 Encoding: 91 91 53
 Width: 996
 VWidth: 0
-Flags: HW
-VStem: 225 481
+Flags: W
+HStem: -162 131<356 704> 1367 133<356 706>
+VStem: 225 131<-31 1367>
 LayerCount: 2
 Fore
 SplineSet
@@ -1753,8 +1755,9 @@ StartChar: bracketright
 Encoding: 93 93 55
 Width: 996
 VWidth: 0
-Flags: HW
-VStem: 292 481
+Flags: W
+HStem: -162 131<294 642> 1367 133<292 642>
+VStem: 642 131<-31 1367>
 LayerCount: 2
 Fore
 SplineSet
@@ -2317,6 +2320,27 @@ Width: 996
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+428 498 m 1
+ 428 511 l 1
+ 832 938 l 1
+ 921 853 l 1
+ 599 512 l 1
+ 599 497 l 1
+ 901 145 l 1
+ 812 60 l 1
+ 428 498 l 1
+98 498 m 1
+ 98 511 l 1
+ 482 938 l 1
+ 571 853 l 1
+ 269 512 l 1
+ 269 497 l 1
+ 571 145 l 1
+ 482 60 l 1
+ 98 498 l 1
+EndSplineSet
 EndChar
 
 StartChar: logicalnot
@@ -2483,6 +2507,27 @@ Width: 996
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+568 498 m 5
+ 568 511 l 5
+ 184 938 l 5
+ 95 853 l 5
+ 397 512 l 5
+ 397 497 l 5
+ 95 145 l 5
+ 184 60 l 5
+ 568 498 l 5
+898 498 m 5
+ 898 511 l 5
+ 514 938 l 5
+ 425 853 l 5
+ 727 512 l 5
+ 727 497 l 5
+ 425 145 l 5
+ 514 60 l 5
+ 898 498 l 5
+EndSplineSet
 EndChar
 
 StartChar: onequarter
@@ -2514,7 +2559,32 @@ Encoding: 191 191 127
 Width: 996
 VWidth: 0
 Flags: W
+HStem: 1082 251<495.634 682.366>
+VStem: 466 246<1110.96 1304.44> 522 136<730.728 880> 807 117<196.926 337>
 LayerCount: 2
+Fore
+SplineSet
+466 1208 m 4xd0
+ 466 1277 520 1333 589 1333 c 4
+ 658 1333 712 1277 712 1208 c 4
+ 712 1139 658 1082 589 1082 c 4
+ 520 1082 466 1139 466 1208 c 4xd0
+658 880 m 5xb0
+ 658 880 671 739 563 626 c 4
+ 450 508 412 501 374 440 c 4
+ 336 379 336 342 336 286 c 4
+ 339 214 400 163 487 137 c 4
+ 574 111 665 122 737 173 c 4
+ 806 222 807 293 807 337 c 5
+ 924 365 l 5
+ 955 283 909 137 814 73 c 4
+ 719 9 571 -19 448 17 c 4
+ 328 53 233 124 205 255 c 4
+ 185 355 207 425 261 504 c 4
+ 317 586 361 599 469 719 c 4
+ 513 768 514 831 522 882 c 5
+ 658 880 l 5xb0
+EndSplineSet
 EndChar
 
 StartChar: Agrave
@@ -2642,7 +2712,7 @@ SplineSet
  82 820 95 952 141 1052 c 0
  225 1239 369 1339 525 1339 c 0
 EndSplineSet
-Validated: 8912897
+Validated: 1
 EndChar
 
 StartChar: Egrave
@@ -3007,7 +3077,7 @@ SplineSet
  128 607 144 727 200 824 c 0
  256 921 364 998 507 998 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: egrave
@@ -4105,7 +4175,7 @@ SplineSet
  653 125 776 243 776 389 c 0
  776 535 653 653 499 653 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: seven
@@ -4244,11 +4314,12 @@ StartChar: less
 Encoding: 60 60 244
 Width: 996
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<743.794 786.143> 0 21G<743.794 786.143> 978 20G<743.726 786.143>
 LayerCount: 2
 Fore
 SplineSet
-148 428 m 1
+148 428 m 1xa0
  148 571 l 1
  773 998 l 1
  842 893 l 1
@@ -4256,7 +4327,7 @@ SplineSet
  279 497 l 1
  842 105 l 1
  773 0 l 1
- 148 428 l 1
+ 148 428 l 1xa0
 EndSplineSet
 Validated: 1
 EndChar
@@ -4288,11 +4359,12 @@ StartChar: greater
 Encoding: 62 62 246
 Width: 996
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<211.857 254.206> 0 21G<211.857 254.206> 978 20G<211.857 254.274>
 LayerCount: 2
 Fore
 SplineSet
-850 428 m 1
+850 428 m 1xa0
  225 0 l 1
  156 105 l 1
  719 497 l 1
@@ -4300,7 +4372,7 @@ SplineSet
  156 893 l 1
  225 998 l 1
  850 571 l 1
- 850 428 l 1
+ 850 428 l 1xa0
 EndSplineSet
 Validated: 1
 EndChar
@@ -4633,7 +4705,6 @@ Flags: H
 LayerCount: 2
 Fore
 Refer: 218 34 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: afii57929
@@ -4657,11 +4728,11 @@ VStem: 361 279
 LayerCount: 2
 Fore
 SplineSet
-440 1389 m 25
- 640 1358 l 25
- 484 998 l 25
- 361 998 l 25
- 440 1389 l 25
+440 1389 m 29
+ 640 1358 l 29
+ 484 998 l 29
+ 361 998 l 29
+ 440 1389 l 29
 EndSplineSet
 Validated: 1
 EndChar
@@ -4681,22 +4752,43 @@ StartChar: quotedblleft
 Encoding: 8220 8220 266
 Width: 996
 VWidth: 0
-Flags: H
+Flags: W
 LayerCount: 2
 Fore
-Refer: 218 34 N 1 0 0 1 0 0 3
-Validated: 1
+SplineSet
+697 1360 m 25
+ 537 1329 l 25
+ 663 998 l 25
+ 756 998 l 25
+ 697 1360 l 25
+417 1304 m 25
+ 257 1273 l 25
+ 453 998 l 29
+ 546 998 l 25
+ 417 1304 l 25
+EndSplineSet
 EndChar
 
 StartChar: quotedblright
 Encoding: 8221 8221 267
 Width: 996
 VWidth: 0
-Flags: H
+HStem: 998 362
+VStem: 240 499
 LayerCount: 2
 Fore
-Refer: 218 34 N 1 0 0 1 0 0 3
-Validated: 1
+SplineSet
+299 1360 m 25
+ 459 1329 l 25
+ 333 998 l 25
+ 240 998 l 29
+ 299 1360 l 25
+579 1304 m 25
+ 739 1273 l 25
+ 543 998 l 25
+ 450 998 l 25
+ 579 1304 l 25
+EndSplineSet
 EndChar
 
 StartChar: uni2090
