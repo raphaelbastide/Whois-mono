@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="996"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <component base="asciicircum" xOffset="16,5" yOffset="87"/>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>133</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>865</integer>
+	    <key>width</key>	    <integer>133</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1170</integer>
+	    <key>width</key>	    <integer>249</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>162</integer>
+	    <key>width</key>
+	    <integer>675</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>435</integer>
+	    <key>width</key>
+	    <integer>128</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

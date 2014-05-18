@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="996"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <component base="A"/>
+    <component base="grave" xOffset="-38" yOffset="370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>361</integer>
+	    <key>width</key>	    <integer>131</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1311</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1453</integer>
+	    <key>width</key>	    <integer>249</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>200</integer>
+	    <key>width</key>
+	    <integer>375</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

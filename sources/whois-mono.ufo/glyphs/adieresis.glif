@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis" format="1">
+  <advance width="996"/>
+  <unicode hex="00E4"/>
+  <outline>
+    <component base="a"/>
+    <component base="dieresis" xOffset="-18" yOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>128</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>448</integer>
+	    <key>width</key>	    <integer>133</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>868</integer>
+	    <key>width</key>	    <integer>130</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1131</integer>
+	    <key>width</key>	    <integer>225</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>141</integer>
+	    <key>width</key>
+	    <integer>120</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>183</integer>
+	    <key>width</key>
+	    <integer>221</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>558</integer>
+	    <key>width</key>
+	    <integer>222</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>663</integer>
+	    <key>width</key>
+	    <integer>131</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

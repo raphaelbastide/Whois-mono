@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="1">
+  <advance width="996"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="298" y="1083" type="line"/>
+      <point x="145" y="1083" type="line"/>
+      <point x="395" y="1332" type="line"/>
+      <point x="570" y="1332" type="line"/>
+      <point x="820" y="1083" type="line"/>
+      <point x="667" y="1083" type="line"/>
+      <point x="483" y="1235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1083</integer>
+	    <key>width</key>	    <integer>249</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>145</integer>
+	    <key>width</key>
+	    <integer>675</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

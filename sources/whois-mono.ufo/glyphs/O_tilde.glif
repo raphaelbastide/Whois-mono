@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="996"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <component base="O"/>
+    <component base="asciitilde" xOffset="36" yOffset="370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>3</integer>
+	    <key>width</key>	    <integer>130</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1203</integer>
+	    <key>width</key>	    <integer>128</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1453</integer>
+	    <key>width</key>	    <integer>96</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1543</integer>
+	    <key>width</key>	    <integer>99</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>82</integer>
+	    <key>width</key>
+	    <integer>130</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>190</integer>
+	    <key>width</key>
+	    <integer>618</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>786</integer>
+	    <key>width</key>
+	    <integer>130</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

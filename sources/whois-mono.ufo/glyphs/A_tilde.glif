@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="996"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <component base="A"/>
+    <component base="asciitilde" xOffset="36" yOffset="370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>361</integer>
+	    <key>width</key>	    <integer>131</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1311</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1453</integer>
+	    <key>width</key>	    <integer>96</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1543</integer>
+	    <key>width</key>	    <integer>99</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>190</integer>
+	    <key>width</key>
+	    <integer>618</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

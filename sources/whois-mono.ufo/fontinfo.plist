@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Whois</string>
+	<key>styleName</key>
+	<string>mono</string>
+	<key>copyright</key>
+	<string>Created by raphael with FontForge 2.0 (http://fontforge.sf.net)</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>998</integer>
+	<key>capHeight</key>
+	<integer>1331</integer>
+	<key>ascender</key>
+	<integer>1587</integer>
+	<key>descender</key>
+	<integer>-461</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string>2012-6-10: Created.</string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/05/10 17:52:49</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 001.000</string>
+	<key>postscriptFontName</key>
+	<string>Whois-mono</string>
+	<key>postscriptFullName</key>
+	<string>Whois-mono</string>
+	<key>postscriptWeightName</key>
+	<string>Medium</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>100</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-438</integer>
+    </dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="1">
+  <advance width="996"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="grave" xOffset="-37,5" yOffset="68"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>133</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>865</integer>
+	    <key>width</key>	    <integer>133</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1151</integer>
+	    <key>width</key>	    <integer>249</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>200</integer>
+	    <key>width</key>
+	    <integer>375</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>435</integer>
+	    <key>width</key>
+	    <integer>128</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

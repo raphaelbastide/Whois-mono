@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring" format="1">
+  <advance width="996"/>
+  <unicode hex="00E5"/>
+  <outline>
+    <component base="a"/>
+    <component base="degree" xOffset="-17" yOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>128</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>448</integer>
+	    <key>width</key>	    <integer>133</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>868</integer>
+	    <key>width</key>	    <integer>130</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1083</integer>
+	    <key>width</key>	    <integer>59</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1277</integer>
+	    <key>width</key>	    <integer>59</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>141</integer>
+	    <key>width</key>
+	    <integer>120</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>353</integer>
+	    <key>width</key>
+	    <integer>60</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>548</integer>
+	    <key>width</key>
+	    <integer>62</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>663</integer>
+	    <key>width</key>
+	    <integer>131</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

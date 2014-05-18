@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="996"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="27" y="-128" type="line"/>
+      <point x="820" y="1332" type="line"/>
+      <point x="970" y="1331" type="line"/>
+      <point x="177" y="-129" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1312</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

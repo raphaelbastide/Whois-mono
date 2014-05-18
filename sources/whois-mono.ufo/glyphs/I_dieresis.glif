@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="996"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresis" yOffset="346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>131</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1201</integer>
+	    <key>width</key>	    <integer>130</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1453</integer>
+	    <key>width</key>	    <integer>225</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>201</integer>
+	    <key>width</key>
+	    <integer>221</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>435</integer>
+	    <key>width</key>
+	    <integer>128</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>576</integer>
+	    <key>width</key>
+	    <integer>222</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
